@@ -1,4 +1,8 @@
 # Password-Manager-MERN
 
-Visit the live website :
+# Visit the live website :
 https://plain-pinafore-worm.cyclic.app/
+
+# test user:
+email : test@gmail.com
+pass : test
