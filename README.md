@@ -5,4 +5,5 @@ https://plain-pinafore-worm.cyclic.app/
 
 # test user:
 email : test@gmail.com
-pass : test
+
+password : test
